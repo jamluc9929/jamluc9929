@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+<!-- My Name is James Lucas. I have a back ground in Information technology working as a contractor for Nasa and The Pentegon throught companies like Xerox and HP. I am currently blearning Linux systems and AWS and those are a few i am looking forward too mastering .   -->
 
 Find out more about me & feel free to connect with me here:
 
